@@ -1,0 +1,8 @@
+{
+  "name": "@spk/usb-volume-win32",
+  "version": "1.0.1",
+  "description": "it is a nodejs addon that help to find win32 usb flash disks in easy way",
+  "main": "index.js",
+  "author": "leo@speakin",
+  "license": "MIT"
+}

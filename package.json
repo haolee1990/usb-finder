@@ -1,0 +1,18 @@
+{
+  "name": "usb-volume-win32",
+  "version": "1.0.0",
+  "description": "it is a nodejs addon that help to find win32 usb flash disks in easy way",
+  "main": "index.js",
+  "scripts": {
+    "clean": "node-gyp clean & node-gyp configure",
+    "test": "node test",
+    "build": "node-gyp build",
+    "rebuild": "node-gyp rebuild",
+    "electron-rebuild": "electron-rebuild --win -x64 -v 1.7.10"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.6.0"
+  },
+  "author": "leo@speakin",
+  "license": "MIT"
+}
