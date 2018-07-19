@@ -39,3 +39,5 @@ console.log('U盘列表：', UsbTool.getUsbFlashDisks())
 npm run electron-rebuild
 
 ```
+参考
+https://github.com/electron/electron-rebuild
